@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.microservice.product.test.ProductServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.092 s -- in com.microservice.product.test.ProductServiceImplTest

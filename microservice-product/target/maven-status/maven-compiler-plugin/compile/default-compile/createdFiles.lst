@@ -1,0 +1,13 @@
+com\microservice\product\dao\ProductDaoImpl.class
+com\microservice\product\service\ProductServiceImpl.class
+com\microservice\product\service\ProductService.class
+com\microservice\product\config\AppConfig.class
+com\microservice\product\config\TransactionConfig.class
+com\microservice\product\MainApp.class
+com\microservice\product\exception\ResourceNotFoundException.class
+com\microservice\product\dao\BaseDao.class
+com\microservice\product\dao\ProductDao.class
+com\microservice\product\TestHibernate.class
+com\microservice\product\config\HibernateConfig.class
+com\microservice\product\dao\IDao.class
+com\microservice\product\entity\Product.class

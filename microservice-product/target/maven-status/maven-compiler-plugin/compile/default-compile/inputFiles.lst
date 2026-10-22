@@ -1,0 +1,13 @@
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\config\AppConfig.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\config\HibernateConfig.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\config\TransactionConfig.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\dao\BaseDao.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\dao\IDao.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\dao\ProductDao.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\dao\ProductDaoImpl.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\entity\Product.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\exception\ResourceNotFoundException.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\MainApp.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\service\ProductService.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\service\ProductServiceImpl.java
+C:\Users\Soufiane\Desktop\microservice-product\src\main\java\com\microservice\product\TestHibernate.java
